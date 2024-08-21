@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou Fernanda</h1>
 
 <p align="center">
-  💻 Estudando técnico de Desenvolvimento em Sistemas | 🌍 Apaixonada por Tecnologia
+  💻 Estudando técnico de Desenvolvimento em Sistemas  | 🌍 Apaixonada por Tecnologia
 </p><br><br>
 
 ## 🚀 Linguagens de Programação
