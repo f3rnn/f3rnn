@@ -28,7 +28,7 @@ if __name__ == '__main__':
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,c)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Technologies
-[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,mysql,bootstrap,visualstudio,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,powershell,mysql,bootstrap,visualstudio,git,github)](https://skillicons.dev)<br><br>
 
 ## <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
 
