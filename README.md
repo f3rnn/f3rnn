@@ -13,7 +13,7 @@ class Fernanda():
     
   def __init__(self):
     self.name = "Fernanda";
-    self.username = "f3rbb";
+    self.username = "f3rnn";
     self.location = "Bahia, Brazil";
     self.spotify = "@fernandavinhas";
   
