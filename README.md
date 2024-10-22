@@ -21,7 +21,7 @@ class Fernanda():
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = Fernanda()
 ```
 
 ## 🚀 Coding
