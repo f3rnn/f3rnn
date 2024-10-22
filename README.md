@@ -5,7 +5,7 @@
 <h1>Hi, I'm Fernanda! 👋</h1>
 
 <p>
-  I'm studying DevOPS @ SENAI-BA and halfway through the programa. I also have some experience with Data Analysis and always am enthusiasted to talk about statistics 🤓
+  I'm studying DevOPS @ SENAI-BA (ending by December of 2025) and halfway through the programa. I also have some experience with Data Analysis and always am enthusiasted to talk about statistics 🤓
 </p>
 
 ```python
@@ -15,7 +15,7 @@ class Fernanda():
     self.name = "Fernanda";
     self.username = "f3rnn";
     self.location = "Bahia, Brazil";
-    self.spotify = "@fernandavinhas";
+    self.discord = "@fern_and";
   
   def __str__(self):
     return self.name
@@ -41,4 +41,5 @@ if __name__ == '__main__':
 <p align="left">
 <a href="https://www.linkedin.com/in/maria-fernanda-cordeiro-vinhas-405541213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://instagram.com/fernperonomucho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="30" width="40"/></a>
 </p>
