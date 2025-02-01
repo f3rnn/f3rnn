@@ -41,7 +41,5 @@ if __name__ == '__main__':
 <p align="left">
 <a href="https://www.linkedin.com/in/maria-fernanda-cordeiro-vinhas-405541213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://instagram.com/fernperonomucho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="30" width="40"/></a>
+<a href="https://discordapp.com/users/533688748127551502" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="30" width="40"/></a>
 </p>
-
-## 🎵
